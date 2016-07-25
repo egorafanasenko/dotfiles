@@ -4,8 +4,8 @@
 [hub]
         protocol = https
 [user]
-        name = Denis Lebedev
-	email = d2.lebedev@gmail.com
+        name = Egor Afanasenko
+	email = dev.afanasenko@gmail.com
 [credential]
 	helper = osxkeychain
 [alias]
